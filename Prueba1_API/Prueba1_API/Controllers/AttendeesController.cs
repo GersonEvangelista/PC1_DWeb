@@ -14,7 +14,7 @@ namespace Prueba1_API.Controllers
     [ApiController]
     public class AttendeesController : ControllerBase
     {
-        private readonly EventManagementDbContext _context;
+        private readonly EventManagementDbContext _context; //Instancia de la BBDD
 
         public AttendeesController(EventManagementDbContext context)
         {
@@ -25,7 +25,7 @@ namespace Prueba1_API.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Attendees>>> GetAttendees()
         {
-            return await _context.Attendees.ToListAsync();
+            return await _context.Attendees.ToListAsync(); //Retorna de la base de datos los Attendees en una Lista
         }
 
         // GET: api/Attendees/5
@@ -38,51 +38,29 @@ namespace Prueba1_API.Controllers
             {
                 return NotFound();
             }
-
-            return attendees;
+            return attendees; //Retorna el attendees correspondiente en formato JSON
         }
-
-        // PUT: api/Attendees/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut("{id}")]
-        public async Task<IActionResult> PutAttendees(int id, Attendees attendees)
-        {
-            if (id != attendees.Id)
-            {
-                return BadRequest();
-            }
-
-            _context.Entry(attendees).State = EntityState.Modified;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!AttendeesExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return NoContent();
-        }
+        
 
         // POST: api/Attendees
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Attendees>> PostAttendees(Attendees attendees)
+        public async Task<ActionResult<Attendees>> PostAttendees([FromBody]Attendees attendees)
         {
             _context.Attendees.Add(attendees);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction("GetAttendees", new { id = attendees.Id }, attendees);
+            var result = await _context.SaveChangesAsync(); //Guardar cambios en la BBDD
+            return Ok(result);
         }
+
+        /* OTRA FORMA (Con retorno de entero)
+        [HttpPost]
+        public async Task<int> PostAttendees([FromBody]Attendees attendees)
+        {
+            _context.Attendees.Add(attendees);
+            var result = await _context.SaveChangesAsync(); //Guardar cambios en la BBDD
+            return result;
+        } 
+        */
+
 
         // DELETE: api/Attendees/5
         [HttpDelete("{id}")]
