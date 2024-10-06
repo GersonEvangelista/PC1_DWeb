@@ -1,0 +1,131 @@
+USE [master]
+GO
+CREATE DATABASE EventManagementDB
+GO
+USE EventManagementDB
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Attendees](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[AttendeeName] [nvarchar](100) NOT NULL,
+	[Email] [nvarchar](100) NOT NULL,
+	[PhoneNumber] [nvarchar](20) NULL,
+	[RegisteredAt] [datetime] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[EventAttendance]    Script Date: 4/10/2024 20:14:33 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[EventAttendance](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[EventId] [int] NULL,
+	[AttendeeId] [int] NULL,
+	[Attended] [bit] NOT NULL,
+	[CheckedInAt] [datetime] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Events]    Script Date: 4/10/2024 20:14:33 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Events](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[OrganizerId] [int] NULL,
+	[EventName] [nvarchar](100) NOT NULL,
+	[EventDate] [datetime] NOT NULL,
+	[Location] [nvarchar](200) NOT NULL,
+	[CreatedAt] [datetime] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Organizers]    Script Date: 4/10/2024 20:14:33 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Organizers](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[OrganizerName] [nvarchar](100) NOT NULL,
+	[ContactEmail] [nvarchar](100) NOT NULL,
+	[PhoneNumber] [nvarchar](20) NULL,
+	[CreatedAt] [datetime] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+SET IDENTITY_INSERT [dbo].[Attendees] ON 
+GO
+INSERT [dbo].[Attendees] ([Id], [AttendeeName], [Email], [PhoneNumber], [RegisteredAt]) VALUES (1, N'Alice Johnson', N'alice@gmail.com', N'555-1234', CAST(N'2024-09-28T18:45:54.590' AS DateTime))
+GO
+INSERT [dbo].[Attendees] ([Id], [AttendeeName], [Email], [PhoneNumber], [RegisteredAt]) VALUES (2, N'Bob Smith', N'bob@gmail.com', N'555-5678', CAST(N'2024-09-28T18:45:54.590' AS DateTime))
+GO
+INSERT [dbo].[Attendees] ([Id], [AttendeeName], [Email], [PhoneNumber], [RegisteredAt]) VALUES (3, N'Charlie Davis', N'charlie@gmail.com', N'555-8765', CAST(N'2024-09-28T18:45:54.590' AS DateTime))
+GO
+SET IDENTITY_INSERT [dbo].[Attendees] OFF
+GO
+SET IDENTITY_INSERT [dbo].[EventAttendance] ON 
+GO
+INSERT [dbo].[EventAttendance] ([Id], [EventId], [AttendeeId], [Attended], [CheckedInAt]) VALUES (1, 1, 1, 1, CAST(N'2024-11-15T09:15:00.000' AS DateTime))
+GO
+INSERT [dbo].[EventAttendance] ([Id], [EventId], [AttendeeId], [Attended], [CheckedInAt]) VALUES (2, 1, 2, 1, CAST(N'2024-11-15T09:30:00.000' AS DateTime))
+GO
+INSERT [dbo].[EventAttendance] ([Id], [EventId], [AttendeeId], [Attended], [CheckedInAt]) VALUES (3, 2, 3, 0, NULL)
+GO
+SET IDENTITY_INSERT [dbo].[EventAttendance] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Events] ON 
+GO
+INSERT [dbo].[Events] ([Id], [OrganizerId], [EventName], [EventDate], [Location], [CreatedAt]) VALUES (1, 1, N'TechCon Developer Summit', CAST(N'2024-11-15T09:00:00.000' AS DateTime), N'Convention Center', CAST(N'2024-09-28T18:45:54.590' AS DateTime))
+GO
+INSERT [dbo].[Events] ([Id], [OrganizerId], [EventName], [EventDate], [Location], [CreatedAt]) VALUES (2, 2, N'Health Expo 2024', CAST(N'2024-12-01T10:00:00.000' AS DateTime), N'Expo Center', CAST(N'2024-09-28T18:45:54.590' AS DateTime))
+GO
+INSERT [dbo].[Events] ([Id], [OrganizerId], [EventName], [EventDate], [Location], [CreatedAt]) VALUES (3, 3, N'EduCon Teachers Meet', CAST(N'2024-10-05T08:30:00.000' AS DateTime), N'School Auditorium', CAST(N'2024-09-28T18:45:54.590' AS DateTime))
+GO
+SET IDENTITY_INSERT [dbo].[Events] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Organizers] ON 
+GO
+INSERT [dbo].[Organizers] ([Id], [OrganizerName], [ContactEmail], [PhoneNumber], [CreatedAt]) VALUES (1, N'TechCon 2024', N'info@techcon.com', N'123-456-7890', CAST(N'2024-09-28T18:45:54.583' AS DateTime))
+GO
+INSERT [dbo].[Organizers] ([Id], [OrganizerName], [ContactEmail], [PhoneNumber], [CreatedAt]) VALUES (2, N'Health Expo', N'contact@healthexpo.com', N'098-765-4321', CAST(N'2024-09-28T18:45:54.583' AS DateTime))
+GO
+INSERT [dbo].[Organizers] ([Id], [OrganizerName], [ContactEmail], [PhoneNumber], [CreatedAt]) VALUES (3, N'EduCon', N'support@educon.com', N'987-654-3210', CAST(N'2024-09-28T18:45:54.583' AS DateTime))
+GO
+SET IDENTITY_INSERT [dbo].[Organizers] OFF
+GO
+ALTER TABLE [dbo].[Attendees] ADD  DEFAULT (getdate()) FOR [RegisteredAt]
+GO
+ALTER TABLE [dbo].[Events] ADD  DEFAULT (getdate()) FOR [CreatedAt]
+GO
+ALTER TABLE [dbo].[Organizers] ADD  DEFAULT (getdate()) FOR [CreatedAt]
+GO
+ALTER TABLE [dbo].[EventAttendance]  WITH CHECK ADD FOREIGN KEY([AttendeeId])
+REFERENCES [dbo].[Attendees] ([Id])
+GO
+ALTER TABLE [dbo].[EventAttendance]  WITH CHECK ADD FOREIGN KEY([EventId])
+REFERENCES [dbo].[Events] ([Id])
+GO
+ALTER TABLE [dbo].[Events]  WITH CHECK ADD FOREIGN KEY([OrganizerId])
+REFERENCES [dbo].[Organizers] ([Id])
+GO
+USE [master]
+GO
+ALTER DATABASE [EventManagementDB] SET  READ_WRITE 
+GO

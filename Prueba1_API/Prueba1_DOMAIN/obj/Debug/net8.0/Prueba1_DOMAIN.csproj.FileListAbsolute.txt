@@ -1,0 +1,14 @@
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Prueba1_API\Prueba1_DOMAIN\bin\Debug\net8.0\Prueba1_DOMAIN.deps.json
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Prueba1_API\Prueba1_DOMAIN\bin\Debug\net8.0\Prueba1_DOMAIN.runtimeconfig.json
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Prueba1_API\Prueba1_DOMAIN\bin\Debug\net8.0\Prueba1_DOMAIN.dll
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Prueba1_API\Prueba1_DOMAIN\bin\Debug\net8.0\Prueba1_DOMAIN.pdb
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Prueba1_API\Prueba1_DOMAIN\obj\Debug\net8.0\Prueba1_DOMAIN.csproj.AssemblyReference.cache
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Prueba1_API\Prueba1_DOMAIN\obj\Debug\net8.0\Prueba1_DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Prueba1_API\Prueba1_DOMAIN\obj\Debug\net8.0\Prueba1_DOMAIN.AssemblyInfoInputs.cache
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Prueba1_API\Prueba1_DOMAIN\obj\Debug\net8.0\Prueba1_DOMAIN.AssemblyInfo.cs
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Prueba1_API\Prueba1_DOMAIN\obj\Debug\net8.0\Prueba1_DOMAIN.csproj.CoreCompileInputs.cache
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Prueba1_API\Prueba1_DOMAIN\obj\Debug\net8.0\Prueba1_DOMAIN.dll
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Prueba1_API\Prueba1_DOMAIN\obj\Debug\net8.0\refint\Prueba1_DOMAIN.dll
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Prueba1_API\Prueba1_DOMAIN\obj\Debug\net8.0\Prueba1_DOMAIN.pdb
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Prueba1_API\Prueba1_DOMAIN\obj\Debug\net8.0\Prueba1_DOMAIN.genruntimeconfig.cache
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Prueba1_API\Prueba1_DOMAIN\obj\Debug\net8.0\ref\Prueba1_DOMAIN.dll
