@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
+using Prueba1_DOMAIN.Core.Interfaces;
+using Prueba1_DOMAIN.Core.Services;
 using Prueba1_DOMAIN.Data;
+using Prueba1_DOMAIN.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,7 +13,8 @@ builder.Services
     .AddDbContext<EventManagementDbContext> //Importar using
     (options => options.UseSqlServer(cnx)); //Importar using 
 
-
+builder.Services.AddTransient<IEventsRepository, EventsRepository>();
+builder.Services.AddTransient<IEventsService, EventsService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

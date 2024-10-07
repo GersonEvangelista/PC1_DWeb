@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2031654D-C8D5-4F85-801F-2D7B8D75AA5C}|Prueba1_API\\Prueba1_API.csproj|c:\\esan\\ciclo_8_esan\\courses\\desarrolloappweb\\pruebas\\prueba1_api\\prueba1_api\\controllers\\organizerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2031654D-C8D5-4F85-801F-2D7B8D75AA5C}|Prueba1_API\\Prueba1_API.csproj|solutionrelative:prueba1_api\\controllers\\organizerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2031654D-C8D5-4F85-801F-2D7B8D75AA5C}|Prueba1_API\\Prueba1_API.csproj|c:\\esan\\ciclo_8_esan\\courses\\desarrolloappweb\\pruebas\\prueba1_api\\prueba1_api\\controllers\\attendeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2031654D-C8D5-4F85-801F-2D7B8D75AA5C}|Prueba1_API\\Prueba1_API.csproj|solutionrelative:prueba1_api\\controllers\\attendeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2031654D-C8D5-4F85-801F-2D7B8D75AA5C}|Prueba1_API\\Prueba1_API.csproj|c:\\esan\\ciclo_8_esan\\courses\\desarrolloappweb\\pruebas\\prueba1_api\\prueba1_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2031654D-C8D5-4F85-801F-2D7B8D75AA5C}|Prueba1_API\\Prueba1_API.csproj|solutionrelative:prueba1_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{780C5896-2D1C-4293-B177-91598B588E7D}|Prueba1_DOMAIN\\Prueba1_DOMAIN.csproj|c:\\esan\\ciclo_8_esan\\courses\\desarrolloappweb\\pruebas\\prueba1_api\\prueba1_domain\\core\\entities\\attendees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{780C5896-2D1C-4293-B177-91598B588E7D}|Prueba1_DOMAIN\\Prueba1_DOMAIN.csproj|solutionrelative:prueba1_domain\\core\\entities\\attendees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{780C5896-2D1C-4293-B177-91598B588E7D}|Prueba1_DOMAIN\\Prueba1_DOMAIN.csproj|c:\\esan\\ciclo_8_esan\\courses\\desarrolloappweb\\pruebas\\prueba1_api\\prueba1_domain\\infrastructure\\data\\eventmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{780C5896-2D1C-4293-B177-91598B588E7D}|Prueba1_DOMAIN\\Prueba1_DOMAIN.csproj|solutionrelative:prueba1_domain\\infrastructure\\data\\eventmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2031654D-C8D5-4F85-801F-2D7B8D75AA5C}|Prueba1_API\\Prueba1_API.csproj|c:\\esan\\ciclo_8_esan\\courses\\desarrolloappweb\\pruebas\\prueba1_api\\prueba1_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2031654D-C8D5-4F85-801F-2D7B8D75AA5C}|Prueba1_API\\Prueba1_API.csproj|solutionrelative:prueba1_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{780C5896-2D1C-4293-B177-91598B588E7D}|Prueba1_DOMAIN\\Prueba1_DOMAIN.csproj|c:\\esan\\ciclo_8_esan\\courses\\desarrolloappweb\\pruebas\\prueba1_api\\prueba1_domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{780C5896-2D1C-4293-B177-91598B588E7D}|Prueba1_DOMAIN\\Prueba1_DOMAIN.csproj|solutionrelative:prueba1_domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2031654D-C8D5-4F85-801F-2D7B8D75AA5C}|Prueba1_API\\Prueba1_API.csproj|c:\\esan\\ciclo_8_esan\\courses\\desarrolloappweb\\pruebas\\prueba1_api\\prueba1_api\\controllers\\eventsdtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2031654D-C8D5-4F85-801F-2D7B8D75AA5C}|Prueba1_API\\Prueba1_API.csproj|solutionrelative:prueba1_api\\controllers\\eventsdtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventsDTOController.cs",
+              "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\Prueba1_API\\Controllers\\EventsDTOController.cs",
+              "RelativeDocumentMoniker": "Prueba1_API\\Controllers\\EventsDTOController.cs",
+              "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\Prueba1_API\\Controllers\\EventsDTOController.cs",
+              "RelativeToolTip": "Prueba1_API\\Controllers\\EventsDTOController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:35:43.638Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -47,88 +41,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrganizersController.cs",
-              "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\Prueba1_API\\Controllers\\OrganizersController.cs",
-              "RelativeDocumentMoniker": "Prueba1_API\\Controllers\\OrganizersController.cs",
-              "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\Prueba1_API\\Controllers\\OrganizersController.cs",
-              "RelativeToolTip": "Prueba1_API\\Controllers\\OrganizersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T16:53:16.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AttendeesController.cs",
-              "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\Prueba1_API\\Controllers\\AttendeesController.cs",
-              "RelativeDocumentMoniker": "Prueba1_API\\Controllers\\AttendeesController.cs",
-              "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\Prueba1_API\\Controllers\\AttendeesController.cs",
-              "RelativeToolTip": "Prueba1_API\\Controllers\\AttendeesController.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T16:48:34.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Attendees.cs",
-              "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\Prueba1_DOMAIN\\Core\\Entities\\Attendees.cs",
-              "RelativeDocumentMoniker": "Prueba1_DOMAIN\\Core\\Entities\\Attendees.cs",
-              "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\Prueba1_DOMAIN\\Core\\Entities\\Attendees.cs",
-              "RelativeToolTip": "Prueba1_DOMAIN\\Core\\Entities\\Attendees.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T16:43:57.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\Prueba1_API\\Program.cs",
               "RelativeDocumentMoniker": "Prueba1_API\\Program.cs",
               "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\Prueba1_API\\Program.cs",
               "RelativeToolTip": "Prueba1_API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T16:41:21.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EventManagementDbContext.cs",
-              "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\Prueba1_DOMAIN\\Infrastructure\\Data\\EventManagementDbContext.cs",
-              "RelativeDocumentMoniker": "Prueba1_DOMAIN\\Infrastructure\\Data\\EventManagementDbContext.cs",
-              "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\Prueba1_DOMAIN\\Infrastructure\\Data\\EventManagementDbContext.cs",
-              "RelativeToolTip": "Prueba1_DOMAIN\\Infrastructure\\Data\\EventManagementDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T16:40:15.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\Prueba1_API\\appsettings.json",
-              "RelativeDocumentMoniker": "Prueba1_API\\appsettings.json",
-              "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\Prueba1_API\\appsettings.json",
-              "RelativeToolTip": "Prueba1_API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-06T16:39:49.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\Prueba1_DOMAIN\\Class1.cs",
-              "RelativeDocumentMoniker": "Prueba1_DOMAIN\\Class1.cs",
-              "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Prueba1_API\\Prueba1_DOMAIN\\Class1.cs",
-              "RelativeToolTip": "Prueba1_DOMAIN\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T16:36:31.804Z"
+              "WhenOpened": "2024-10-07T13:46:01.224Z",
+              "EditorCaption": ""
             }
           ]
         }
