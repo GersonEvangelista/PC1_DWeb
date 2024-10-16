@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repasito_API", "Repasito_API\Repasito_API.csproj", "{DA81B484-BD2A-4E17-8D0D-DB7B74130C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repasito_DOMAIN", "repasito_DOMAIN\repasito_DOMAIN.csproj", "{D07B55B9-5D5A-4068-BB89-172C157614F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA81B484-BD2A-4E17-8D0D-DB7B74130C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA81B484-BD2A-4E17-8D0D-DB7B74130C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA81B484-BD2A-4E17-8D0D-DB7B74130C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA81B484-BD2A-4E17-8D0D-DB7B74130C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07B55B9-5D5A-4068-BB89-172C157614F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07B55B9-5D5A-4068-BB89-172C157614F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07B55B9-5D5A-4068-BB89-172C157614F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07B55B9-5D5A-4068-BB89-172C157614F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97D8F058-7908-463B-94FF-E3225B855138}
+	EndGlobalSection
+EndGlobal

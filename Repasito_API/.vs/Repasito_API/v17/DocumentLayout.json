@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA81B484-BD2A-4E17-8D0D-DB7B74130C97}|Repasito_API\\Repasito_API.csproj|c:\\esan\\ciclo_8_esan\\courses\\desarrolloappweb\\pruebas\\repasito_api\\repasito_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA81B484-BD2A-4E17-8D0D-DB7B74130C97}|Repasito_API\\Repasito_API.csproj|solutionrelative:repasito_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07B55B9-5D5A-4068-BB89-172C157614F1}|repasito_DOMAIN\\repasito_DOMAIN.csproj|c:\\esan\\ciclo_8_esan\\courses\\desarrolloappweb\\pruebas\\repasito_api\\repasito_domain\\infraestructure\\repositories\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07B55B9-5D5A-4068-BB89-172C157614F1}|repasito_DOMAIN\\repasito_DOMAIN.csproj|solutionrelative:repasito_domain\\infraestructure\\repositories\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07B55B9-5D5A-4068-BB89-172C157614F1}|repasito_DOMAIN\\repasito_DOMAIN.csproj|c:\\esan\\ciclo_8_esan\\courses\\desarrolloappweb\\pruebas\\repasito_api\\repasito_domain\\core\\services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07B55B9-5D5A-4068-BB89-172C157614F1}|repasito_DOMAIN\\repasito_DOMAIN.csproj|solutionrelative:repasito_domain\\core\\services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07B55B9-5D5A-4068-BB89-172C157614F1}|repasito_DOMAIN\\repasito_DOMAIN.csproj|c:\\esan\\ciclo_8_esan\\courses\\desarrolloappweb\\pruebas\\repasito_api\\repasito_domain\\core\\interfaces\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07B55B9-5D5A-4068-BB89-172C157614F1}|repasito_DOMAIN\\repasito_DOMAIN.csproj|solutionrelative:repasito_domain\\core\\interfaces\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07B55B9-5D5A-4068-BB89-172C157614F1}|repasito_DOMAIN\\repasito_DOMAIN.csproj|c:\\esan\\ciclo_8_esan\\courses\\desarrolloappweb\\pruebas\\repasito_api\\repasito_domain\\core\\interfaces\\iproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07B55B9-5D5A-4068-BB89-172C157614F1}|repasito_DOMAIN\\repasito_DOMAIN.csproj|solutionrelative:repasito_domain\\core\\interfaces\\iproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\repasito_DOMAIN\\Data\\ChaevContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repasito_DOMAIN\\Data\\ChaevContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA81B484-BD2A-4E17-8D0D-DB7B74130C97}|Repasito_API\\Repasito_API.csproj|c:\\esan\\ciclo_8_esan\\courses\\desarrolloappweb\\pruebas\\repasito_api\\repasito_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA81B484-BD2A-4E17-8D0D-DB7B74130C97}|Repasito_API\\Repasito_API.csproj|solutionrelative:repasito_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07B55B9-5D5A-4068-BB89-172C157614F1}|repasito_DOMAIN\\repasito_DOMAIN.csproj|c:\\esan\\ciclo_8_esan\\courses\\desarrolloappweb\\pruebas\\repasito_api\\repasito_domain\\core\\dto\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07B55B9-5D5A-4068-BB89-172C157614F1}|repasito_DOMAIN\\repasito_DOMAIN.csproj|solutionrelative:repasito_domain\\core\\dto\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07B55B9-5D5A-4068-BB89-172C157614F1}|repasito_DOMAIN\\repasito_DOMAIN.csproj|c:\\esan\\ciclo_8_esan\\courses\\desarrolloappweb\\pruebas\\repasito_api\\repasito_domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07B55B9-5D5A-4068-BB89-172C157614F1}|repasito_DOMAIN\\repasito_DOMAIN.csproj|solutionrelative:repasito_domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\repasito_DOMAIN\\Infraestructure\\Repositories\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "repasito_DOMAIN\\Infraestructure\\Repositories\\ProductsRepository.cs",
+              "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\repasito_DOMAIN\\Infraestructure\\Repositories\\ProductsRepository.cs",
+              "RelativeToolTip": "repasito_DOMAIN\\Infraestructure\\Repositories\\ProductsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:09:08.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\Repasito_API\\Program.cs",
+              "RelativeDocumentMoniker": "Repasito_API\\Program.cs",
+              "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\Repasito_API\\Program.cs",
+              "RelativeToolTip": "Repasito_API\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:26:48.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductsService.cs",
+              "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\repasito_DOMAIN\\Core\\Interfaces\\IProductsService.cs",
+              "RelativeDocumentMoniker": "repasito_DOMAIN\\Core\\Interfaces\\IProductsService.cs",
+              "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\repasito_DOMAIN\\Core\\Interfaces\\IProductsService.cs",
+              "RelativeToolTip": "repasito_DOMAIN\\Core\\Interfaces\\IProductsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:17:48.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsDTO.cs",
+              "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\repasito_DOMAIN\\Core\\DTO\\ProductsDTO.cs",
+              "RelativeDocumentMoniker": "repasito_DOMAIN\\Core\\DTO\\ProductsDTO.cs",
+              "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\repasito_DOMAIN\\Core\\DTO\\ProductsDTO.cs",
+              "RelativeToolTip": "repasito_DOMAIN\\Core\\DTO\\ProductsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:09:09.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsService.cs",
+              "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\repasito_DOMAIN\\Core\\Services\\ProductsService.cs",
+              "RelativeDocumentMoniker": "repasito_DOMAIN\\Core\\Services\\ProductsService.cs",
+              "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\repasito_DOMAIN\\Core\\Services\\ProductsService.cs",
+              "RelativeToolTip": "repasito_DOMAIN\\Core\\Services\\ProductsService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAADwv00AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:05:00.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductsRepository.cs",
+              "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\repasito_DOMAIN\\Core\\Interfaces\\IProductsRepository.cs",
+              "RelativeDocumentMoniker": "repasito_DOMAIN\\Core\\Interfaces\\IProductsRepository.cs",
+              "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\repasito_DOMAIN\\Core\\Interfaces\\IProductsRepository.cs",
+              "RelativeToolTip": "repasito_DOMAIN\\Core\\Interfaces\\IProductsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:04:16.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\Repasito_API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Repasito_API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\Repasito_API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Repasito_API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:47:02.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChaevContext.cs",
+              "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\repasito_DOMAIN\\Data\\ChaevContext.cs",
+              "RelativeDocumentMoniker": "repasito_DOMAIN\\Data\\ChaevContext.cs",
+              "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\repasito_DOMAIN\\Data\\ChaevContext.cs",
+              "RelativeToolTip": "repasito_DOMAIN\\Data\\ChaevContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:36:12.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\repasito_DOMAIN\\Class1.cs",
+              "RelativeDocumentMoniker": "repasito_DOMAIN\\Class1.cs",
+              "ToolTip": "C:\\ESAN\\CICLO_8_ESAN\\Courses\\DesarrolloAppWeb\\Pruebas\\Repasito_API\\repasito_DOMAIN\\Class1.cs",
+              "RelativeToolTip": "repasito_DOMAIN\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:28:41.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

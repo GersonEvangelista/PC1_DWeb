@@ -1,0 +1,15 @@
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Repasito_API\repasito_DOMAIN\bin\Debug\net8.0\repasito_DOMAIN.deps.json
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Repasito_API\repasito_DOMAIN\bin\Debug\net8.0\repasito_DOMAIN.runtimeconfig.json
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Repasito_API\repasito_DOMAIN\bin\Debug\net8.0\repasito_DOMAIN.dll
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Repasito_API\repasito_DOMAIN\bin\Debug\net8.0\repasito_DOMAIN.pdb
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Repasito_API\repasito_DOMAIN\obj\Debug\net8.0\repasito_DOMAIN.csproj.AssemblyReference.cache
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Repasito_API\repasito_DOMAIN\obj\Debug\net8.0\repasito_DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Repasito_API\repasito_DOMAIN\obj\Debug\net8.0\repasito_DOMAIN.AssemblyInfoInputs.cache
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Repasito_API\repasito_DOMAIN\obj\Debug\net8.0\repasito_DOMAIN.AssemblyInfo.cs
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Repasito_API\repasito_DOMAIN\obj\Debug\net8.0\repasito_DOMAIN.csproj.CoreCompileInputs.cache
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Repasito_API\repasito_DOMAIN\obj\Debug\net8.0\repasito_DOMAIN.sourcelink.json
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Repasito_API\repasito_DOMAIN\obj\Debug\net8.0\repasito_DOMAIN.dll
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Repasito_API\repasito_DOMAIN\obj\Debug\net8.0\refint\repasito_DOMAIN.dll
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Repasito_API\repasito_DOMAIN\obj\Debug\net8.0\repasito_DOMAIN.pdb
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Repasito_API\repasito_DOMAIN\obj\Debug\net8.0\repasito_DOMAIN.genruntimeconfig.cache
+C:\ESAN\CICLO_8_ESAN\Courses\DesarrolloAppWeb\Pruebas\Repasito_API\repasito_DOMAIN\obj\Debug\net8.0\ref\repasito_DOMAIN.dll
