@@ -1,0 +1,15 @@
+C:\Users\Gerson\Downloads\Login\StoreDB_API\StoreDB_DOMAIN1\bin\Debug\net8.0\StoreDB_DOMAIN1.deps.json
+C:\Users\Gerson\Downloads\Login\StoreDB_API\StoreDB_DOMAIN1\bin\Debug\net8.0\StoreDB_DOMAIN1.runtimeconfig.json
+C:\Users\Gerson\Downloads\Login\StoreDB_API\StoreDB_DOMAIN1\bin\Debug\net8.0\StoreDB_DOMAIN1.dll
+C:\Users\Gerson\Downloads\Login\StoreDB_API\StoreDB_DOMAIN1\bin\Debug\net8.0\StoreDB_DOMAIN1.pdb
+C:\Users\Gerson\Downloads\Login\StoreDB_API\StoreDB_DOMAIN1\obj\Debug\net8.0\StoreDB_DOMAIN1.csproj.AssemblyReference.cache
+C:\Users\Gerson\Downloads\Login\StoreDB_API\StoreDB_DOMAIN1\obj\Debug\net8.0\StoreDB_DOMAIN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerson\Downloads\Login\StoreDB_API\StoreDB_DOMAIN1\obj\Debug\net8.0\StoreDB_DOMAIN1.AssemblyInfoInputs.cache
+C:\Users\Gerson\Downloads\Login\StoreDB_API\StoreDB_DOMAIN1\obj\Debug\net8.0\StoreDB_DOMAIN1.AssemblyInfo.cs
+C:\Users\Gerson\Downloads\Login\StoreDB_API\StoreDB_DOMAIN1\obj\Debug\net8.0\StoreDB_DOMAIN1.csproj.CoreCompileInputs.cache
+C:\Users\Gerson\Downloads\Login\StoreDB_API\StoreDB_DOMAIN1\obj\Debug\net8.0\StoreDB_DOMAIN1.sourcelink.json
+C:\Users\Gerson\Downloads\Login\StoreDB_API\StoreDB_DOMAIN1\obj\Debug\net8.0\StoreDB_DOMAIN1.dll
+C:\Users\Gerson\Downloads\Login\StoreDB_API\StoreDB_DOMAIN1\obj\Debug\net8.0\refint\StoreDB_DOMAIN1.dll
+C:\Users\Gerson\Downloads\Login\StoreDB_API\StoreDB_DOMAIN1\obj\Debug\net8.0\StoreDB_DOMAIN1.pdb
+C:\Users\Gerson\Downloads\Login\StoreDB_API\StoreDB_DOMAIN1\obj\Debug\net8.0\StoreDB_DOMAIN1.genruntimeconfig.cache
+C:\Users\Gerson\Downloads\Login\StoreDB_API\StoreDB_DOMAIN1\obj\Debug\net8.0\ref\StoreDB_DOMAIN1.dll

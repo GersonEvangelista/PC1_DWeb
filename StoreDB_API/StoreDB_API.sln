@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreDB_API", "StoreDB_API\StoreDB_API.csproj", "{BA64A403-BCCD-4DC4-B6A8-18292E29ACC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreDB_DOMAIN1", "StoreDB_DOMAIN1\StoreDB_DOMAIN1.csproj", "{7CA81EED-C3F9-449F-B30E-FEDA19005284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA64A403-BCCD-4DC4-B6A8-18292E29ACC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA64A403-BCCD-4DC4-B6A8-18292E29ACC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA64A403-BCCD-4DC4-B6A8-18292E29ACC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA64A403-BCCD-4DC4-B6A8-18292E29ACC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA81EED-C3F9-449F-B30E-FEDA19005284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA81EED-C3F9-449F-B30E-FEDA19005284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA81EED-C3F9-449F-B30E-FEDA19005284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA81EED-C3F9-449F-B30E-FEDA19005284}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4C40C33-BD67-4393-8E0E-5097B52168FA}
+	EndGlobalSection
+EndGlobal
